@@ -1,2 +1,3 @@
-# Striverz-DSA
-🚀 Striver’s DSA Sheet solutions in progress — mastering DSA one problem at a time.
+🚀 DSA journey started
+💻 Java | Data Structures & Algorithms 
+📈 Solving problems consistently
