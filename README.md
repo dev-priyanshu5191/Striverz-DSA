@@ -1,5 +1,3 @@
-# Striver DSA Sheet Progress
-
-📚 Learning Data Structures & Algorithms<br>
-💡 Solving one problem daily<br>
-💻 Java based solutions
+📚 Learning Data Structures & Algorithms <br>
+🧠 One problem at a time, one concept a day <br>
+💻 Java | DSA | GitHub as my progress tracker
