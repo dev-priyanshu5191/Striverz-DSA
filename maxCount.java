@@ -31,5 +31,18 @@ public class maxCount {
         int pos=n-firstPos;
         int res = Math.max(neg, pos);
         System.out.println("Max Count is: "+ res);
+
+
+        // Without binary search
+        // int negC=0, posC=0;
+        // for(int x:arr){
+        //     if(arr[x]>0){      with this method time complexity is O(n); 
+        //         negC++;
+        //     }else{
+        //         posC++;
+        //     }
+        // }
+        // int result = Math.max(negC, posC);
+        // System.out.println(result);
     }
 }
