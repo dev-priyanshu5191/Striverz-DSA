@@ -16,7 +16,6 @@ public class SortedSquares {
         }
         return res;
     }
-
     public static void main(String[] args) {
         int[] nums = {-4, -1, 0, 3, 10};
 
